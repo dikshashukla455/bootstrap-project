@@ -1,0 +1,23 @@
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width: 200px;
+    height:10px;
+    margin:0 auto;
+}
+.height-80{
+    min-height: 100vh;
+}
+.about-picture{
+    background: url(../img/is.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#progress{
+    background: url(../img/pexels-photo-373912.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
